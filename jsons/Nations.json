@@ -22,7 +22,11 @@
 		"outerColor": [185,12,12],
 		"innerColor": [125,16,16],
 		"uniqueName": "Barbaric Terror",
-		"uniques": ["Cannot build [Settler] units", "No movement cost to pillage", "[25]% strength <vs [City-States]>", ["When conquering an encampment, earn [16] Gold and recruit a Barbarian unit <with [80]% chance>", "[-45]% maintenance costs <for [Siege] units>"	,
+		"uniques": ["Cannot build [Settler] units",
+"No movement cost to pillage", 
+"[25]% strength <vs [City-States]>", 
+"["When conquering an encampment, earn [16] Gold and recruit a Barbarian unit <with [80]% chance>", 
+"[-45]% maintenance costs <for [Siege] units>"	,
 		
 		"cities": ["Camp Coyote"]
 	}
