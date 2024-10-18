@@ -11,8 +11,7 @@
 		"upgradesTo": "Swordsman",
 		"attackSound": "nonmetalhit"
 	},
-
-{
+	{
 		"name": "Skirmisher",
 		"unitType": "Archery",
 		"uniqueTo": "Barbarians",
@@ -26,8 +25,7 @@
 		"upgradesTo": "Crossbowman",
 		"attackSound": "arrow"
 	},
-
-{
+	{
 		"name": "Marauder",
 		"unitType": "Sword",
 		"replaces": "Spearman",
@@ -41,4 +39,16 @@
 		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
 		"attackSound": "metalhit"
 	}
+	{
+		"name": "Pillager",
+		"unitType": "Archery",
+		"movement": 2,
+		"strength": 12,
+		"rangedStrength": 18,
+		"cost": 120,
+		"requiredTech": "Machinery",
+		"upgradesTo": "Gatling Gun",
+		"obsoleteTech": "Industrialization",
+		"attackSound": "crossbow"
+	},
 ]
