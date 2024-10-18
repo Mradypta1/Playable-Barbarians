@@ -12,7 +12,7 @@
 		"declaringWar": "Your puny nation must be removed from the face of earth. Prepare yourself men, for we are marching on to battle!",
 		"attacked": "Oh, what's this? You're asking me to add your riches to my collection? Hahaha, with pleasure...",
 		"defeated": "This will not be the end of us barbarians. My men are scattered throughout the world, and there is nothing you can do to stop us.",
-		"introduction": "I am Braslaur, chieftain of the barbarians. Now you might notice that there are people that attack and pillage one your cities. I can assure you that they are just from another tribe.",
+		"introduction": "I am Braslaur, chieftain of the barbarians. Now you might notice that there are people that attack and pillage one your cities. I can assure you that they are just from another tribe, though we might attack you if we feel like it.",
 
 		"neutralHello": "What do you want?",
 		"hateHello": "You dare show your face here?!",
@@ -24,5 +24,5 @@
 		"uniqueName": "Barbaric Terror",
 		"uniques": ["Cannot build [Settler] units","No movement cost to pillage","[25]% strength <vs [City-States]>",["When conquering an encampment, earn [16] Gold and recruit a Barbarian unit <with [80]% chance>","[-45]% maintenance costs <for [Siege] units>"		
 		"cities": ["Camp Coyote"]
-	}
+	 }
 ]
