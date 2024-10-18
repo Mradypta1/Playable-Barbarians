@@ -39,7 +39,7 @@
 		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
 		"attackSound": "metalhit"
 	}
-	{
+	{, 
 		"name": "Pillager",
 		"unitType": "Archery",
 		"movement": 2,
@@ -50,5 +50,5 @@
 		"upgradesTo": "Gatling Gun",
 		"obsoleteTech": "Industrialization",
 		"attackSound": "crossbow"
-	},
+	}
 ]
