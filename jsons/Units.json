@@ -11,6 +11,7 @@
 		"upgradesTo": "Swordsman",
 		"attackSound": "nonmetalhit"
 	},
+
 {
 		"name": "Skirmisher",
 		"unitType": "Archery",
@@ -25,6 +26,7 @@
 		"upgradesTo": "Crossbowman",
 		"attackSound": "arrow"
 	},
+
 {
 		"name": "Marauder",
 		"unitType": "Sword",
@@ -38,5 +40,5 @@
 		"upgradesTo": "Pikeman",
 		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
 		"attackSound": "metalhit"
-	},
+	}
 ]
