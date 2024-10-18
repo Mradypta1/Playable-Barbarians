@@ -6,8 +6,8 @@
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Pillage, raid, and conquer every civilization you can find!",
+		"startIntroPart2": "Or just do anything a barbarian would do. So, good luck!",
 		
 		"declaringWar": "Your puny nation must be removed from the face of earth. Prepare yourself men, for we are marching on to battle!",
 		"attacked": "Oh, what's this? You're asking me to add your riches to my collection? Hahaha, with pleasure...",
@@ -17,7 +17,7 @@
 		"neutralHello": "What do you want?",
 		"hateHello": "You dare show your face here?!",
 		
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"tradeRequest": "We would like to make this trade offer.",
 		
 		"outerColor": [185,12,12],
 		"innerColor": [125,16,16],
